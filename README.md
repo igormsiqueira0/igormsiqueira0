@@ -1,7 +1,8 @@
 # bom dia me chamo igor mas muitos me chamam de ignition 👍
+
 ## sobre
 17 anos
-quase finalizando o terceirão 😯 ([tcc feito ai](https://github.com/CeosPlataforma/ceos))
+quase finalizando o terceirão 😯 ([tcc feito ai](https://github.com/CeosPlataforma/ceos)) <br />
 vejo anime e jogo coisas ai (especialmente fps 🤤) no tempo vago
 
 ## coisas que sei até agora e estou tentando cada vez mais aprender
