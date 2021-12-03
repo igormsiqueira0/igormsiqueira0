@@ -2,6 +2,7 @@
 ## sobre
 17 anos
 quase finalizando o terceirão 😯 ([tcc feito ai](https://github.com/CeosPlataforma/ceos))
+vejo anime e jogo coisas ai (especialmente fps 🤤) no tempo vago
 
 ## coisas que sei até agora e estou tentando cada vez mais aprender
 - HTML
