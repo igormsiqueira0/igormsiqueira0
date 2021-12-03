@@ -12,7 +12,7 @@ quase finalizando o terceirão 😯 ([tcc feito ai](https://github.com/CeosPlata
 - Bootstrap
 - React
 
-[linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Ignition777&layout=compact)
+![linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Ignition777&layout=compact)
 
 ## sociais
 - basicamente 100% quando pc ligado: [perfil discord](https://discordapp.com/users/380853238062383124/)
