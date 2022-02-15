@@ -5,7 +5,7 @@ Vejo anime e jogo (especialmente jogos fps) no tempo vago
 ## Tecnologias que sei até agora e estou tentando cada vez mais aprender
 - HTML
 - CSS
-- JavaScript
+- Vanilla JS
 - jQuery
 - SASS
 - Bootstrap
