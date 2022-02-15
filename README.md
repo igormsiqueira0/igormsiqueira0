@@ -1,6 +1,6 @@
 ## Sobre
 Técnico em informática para internet pela ETEC Lauro Gomes <br />
-Vejo animes e jogo no tempo vago
+Vejo animes, estudo e jogo no tempo vago
 
 ## Tecnologias que sei até agora e estou tentando cada vez mais aprender
 - HTML
