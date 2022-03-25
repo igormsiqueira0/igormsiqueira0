@@ -11,4 +11,4 @@ Vejo animes, estudo e jogo no tempo vago
 - Bootstrap
 - React
 
-![linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Ignition777&layout=compact)
+![linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=igormsiqueira0&layout=compact)
