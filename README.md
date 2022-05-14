@@ -11,6 +11,9 @@ Vejo animes, estudo e jogo no tempo vago
 <a href="https://www.w3schools.com/css/" target="_blank">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40" />
 </a>
+<a href="https://git-scm.com/" target="_blank">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40" />
+</a>
 <a href="https://gulpjs.com" target="_blank">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40" />
 </a>
@@ -31,6 +34,9 @@ Vejo animes, estudo e jogo no tempo vago
 </a>
 <a href="https://www.typescriptlang.org/" target="_blank">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+</a>
+<a href="https://code.visualstudio.com/" target="_blank">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
 </a>
 	
 </p>
