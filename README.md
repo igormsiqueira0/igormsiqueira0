@@ -20,9 +20,6 @@ Vejo animes, estudo e jogo no tempo vago
 <a href="https://reactjs.org/" target="_blank">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40" />
 </a>
-<a href="https://redux.js.org/" target="_blank">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" width="40" height="40" />
-</a>
 <a href="https://vuejs.org/" target="_blank">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/>
 </a>
