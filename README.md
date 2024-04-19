@@ -1,7 +1,8 @@
 ## Sobre
-Técnico em informática para internet pela ETEC Lauro Gomes <br />
-Atualmente cursando superior na Universidade Federal do ABC como Bacharel em Ciência e Tecnologia e visando Bacharel em Ciência da Computação e Bacharel em Ciência de Dados <br />
-Vejo animes, estudo e jogo no tempo vago
+Técnico em Informática para Internet pela ETEC Lauro Gomes
+
+Atualmente cursando superior na Universidade Federal do ABC em Bacharelado em Ciência e Tecnologia<br/>
+Visando Bacharelado em Ciência da Computação e Bacharelado em Ciência de Dados
 
 ## Linguagens e ferramentas
 <p align="left">
