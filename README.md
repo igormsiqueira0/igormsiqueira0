@@ -1,7 +1,6 @@
 ## Sobre
 Técnico em Informática para Internet pela ETEC Lauro Gomes<br/>
-Bacharel em Ciência e Tecnologia pela Universidade Federal do ABC<br/>
-Atualmente cursando Bacharelado em Ciência da Computação
+Bacharel em Ciência e Tecnologia e cursando Bacharelado em Ciência da Computação pela Universidade Federal do ABC<br/>
 
 ## Linguagens e ferramentas
 <p align="left">
